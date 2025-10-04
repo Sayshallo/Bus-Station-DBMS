@@ -1,0 +1,6 @@
+# Системные файлы Windows
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
